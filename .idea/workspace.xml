@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1heJi4WGmXgXqMMH2cjd42hPPrC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600365747618</updated>
-      <workItem from="1600365749146" duration="4406000" />
+      <workItem from="1600365749146" duration="4743000" />
     </task>
     <servers />
   </component>
@@ -50,6 +54,14 @@
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
     <state x="328" y="146" key="#SSH_Configurations/0.0.1500.1000@0.0.1500.1000" timestamp="1600365822139" />
+    <state x="621" y="398" key="Github.ShareDialog" timestamp="1600372067187">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="621" y="398" key="Github.ShareDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1600372067187" />
+    <state x="545" y="205" key="Github.UntrackedFilesDialog" timestamp="1600372076031">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="545" y="205" key="Github.UntrackedFilesDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1600372076031" />
     <state x="636" y="231" key="ftp.server.browser" timestamp="1600365856678">
       <screen x="0" y="0" width="1500" height="1000" />
     </state>
