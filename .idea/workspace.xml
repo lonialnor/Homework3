@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a7a0da5-3327-47c7-9ed8-0f087e4fe91d" name="Default Changelist" comment="" />
+    <list default="true" id="2a7a0da5-3327-47c7-9ed8-0f087e4fe91d" name="Default Changelist" comment="push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,12 +38,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600365747618</updated>
-      <workItem from="1600365749146" duration="4743000" />
+      <workItem from="1600365749146" duration="5043000" />
     </task>
+    <task id="LOCAL-00001" summary="push">
+      <created>1600372097518</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600372097518</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push" />
+    <option name="LAST_COMMIT_MESSAGE" value="push" />
   </component>
   <component name="WindowStateProjectService">
     <state x="343" y="158" key="#Deployment" timestamp="1600365903412">
